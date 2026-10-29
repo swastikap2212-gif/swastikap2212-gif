@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Swastika! 👋
 
-<!--
-**swastikap2212-gif/swastikap2212-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student at CHARUSAT, CMPICA
 
-Here are some ideas to get you started:
+💻 Currently learning programming and web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎨 Interested in UI/UX design, creativity, and technology.
+
+## 🌱 Currently Learning
+- Programming fundamentals
+- Data Structures
+- Web Development
+- GitHub
+
+## 🎯 My Goals
+- Build practical coding projects
+- Improve my technical skills
+- Create a professional portfolio
+
+## 📫 Connect With Me
+- GitHub: @swastikap2212-gif
